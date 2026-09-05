@@ -1,4 +1,4 @@
-# 声控飞行跑酷（singer_webgame）
+# 声控飞行跑酷（chinese-flying-sound-run-game）
 
 横版自动跑酷网页小游戏：背景向左滚动，角色固定在左侧“向右跑”。  
 **同时满足**「唱出短句 **中国人能飞**」+「麦克风呈现连续歌唱波形」时，角色飞行以躲避障碍、收集金币。
@@ -54,3 +54,7 @@ npm run preview
 ## 技术栈
 
 Vite + TypeScript + Phaser 3 · Web Audio API · Web Speech API（`zh-CN`）
+
+## License
+
+[MIT](./LICENSE)
