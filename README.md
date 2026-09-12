@@ -53,7 +53,7 @@ npm run preview
 ## 素材
 
 首版为可替换占位图，路径约定见 [ATTRIBUTION.md](./ATTRIBUTION.md)。  
-之后用定制素材**同名覆盖** `public/assets/` 即可。
+最终版本使用定制素材。
 
 ## 技术栈
 
