@@ -3,6 +3,7 @@
 横版自动跑酷网页小游戏：背景向左滚动，角色固定在左侧“向右跑”。  
 **同时满足**「唱出短句 **中国人能飞**」+「麦克风呈现连续歌唱波形」时，角色起飞；起飞后，通过持续任意发声飞行、音调高低控制高度，以躲避障碍、收集金币。
 
+游戏地址：https://chinese-fly-sound-game.online/
 <img width="1054" height="593" alt="cover_01" src="https://github.com/user-attachments/assets/6ecb7044-80e1-47e8-8365-d6ec85b19df7" />
 <img width="1055" height="590" alt="cover_02" src="https://github.com/user-attachments/assets/1073b331-331a-4bdb-a2e2-dacea568f745" />
 
